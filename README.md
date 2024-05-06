@@ -1,1 +1,1 @@
-testing parsing the url
+testing regeneration to the db
