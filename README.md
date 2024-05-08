@@ -1,1 +1,1 @@
-testing regeneration to the db
+testing regeneration to the db in fix-regen branch
